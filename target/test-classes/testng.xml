@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "adddept">
+
+<test name= "addingdept">
+<packages>
+<pakage name = "adddept"/>
+</packages>
+
+
+</test>
+
+
+</suite>
+
+
+
+
+
+
+
+
+
